@@ -38,37 +38,37 @@
 	<div class="panel" id="odysey">
 	  <div class="hero_title">ODYSEY</div>
 	  <div class="go_link"><a href="sites/odysey/index.html">Click to visit site</a></div>
-	  <div class="box" id="box1" ><img src="home_img/odysey1.PNG"></div>
-	  <div class="box" id="box2"><img src="home_img/odysey2.PNG"></div>
-	  <div class="box" id="box3"><img src="home_img/odysey3.PNG"></div>
-	  <div class="box" id="box4"><img src="home_img/odysey4.PNG"></div>
+	  <div class="box" id="box1" ><img src="home_img/odysey1.png"></div>
+	  <div class="box" id="box2"><img src="home_img/odysey2.png"></div>
+	  <div class="box" id="box3"><img src="home_img/odysey3.png"></div>
+	  <div class="box" id="box4"><img src="home_img/odysey4.png"></div>
 	</div>
 	
 	<div class="panel" id="piefactory">
 	  <div class="hero_title">PIE FACTORY</div>
 	  <div class="go_link"><a href="sites/piefactory/index.html">Click to visit site</a></div>
-	  <div class="box" id="box1" ><img src="home_img/pie1.PNG"></div>
-	  <div class="box" id="box2"><img src="home_img/pie2.PNG"></div>
-	  <div class="box" id="box3"><img src="home_img/pie3.PNG"></div>
-	  <div class="box" id="box4"><img src="home_img/pie4.PNG"></div>
+	  <div class="box" id="box1" ><img src="home_img/pie1.png"></div>
+	  <div class="box" id="box2"><img src="home_img/pie2.png"></div>
+	  <div class="box" id="box3"><img src="home_img/pie3.png"></div>
+	  <div class="box" id="box4"><img src="home_img/pie4.png"></div>
 	</div>
 	
 	<div class="panel" id="stgrammercy">
 	  <div class="hero_title">St. GRAMMERCY</div>
 	  <div class="go_link"><a href="http://stgrammercy.com">Click to visit site</a></div>
-	  <div class="box" id="box1" ><img src="home_img/stgram1.PNG"></div>
-	  <div class="box" id="box2"><img src="home_img/stgram2.PNG"></div>
-	  <div class="box" id="box3"><img src="home_img/stgram3.PNG"></div>
-	  <div class="box" id="box4"><img src="home_img/stgram4.PNG"></div>
+	  <div class="box" id="box1" ><img src="home_img/stgram1.png"></div>
+	  <div class="box" id="box2"><img src="home_img/stgram2.png"></div>
+	  <div class="box" id="box3"><img src="home_img/stgram3.png"></div>
+	  <div class="box" id="box4"><img src="home_img/stgram4.png"></div>
 	</div>
 	
 	<div class="panel" id="oaktree">
 	  <div class="hero_title">OAKTREE</div>
 	  <div class="go_link"><a href="sites/oaktree/index.php">Click to visit site</a></div>
-	  <div class="box" id="box1" ><img src="home_img/oaktree1.PNG"></div>
-	  <div class="box" id="box2"><img src="home_img/oaktree2.PNG"></div>
-	  <div class="box" id="box3"><img src="home_img/oaktree3.PNG"></div>
-	  <div class="box" id="box4"><img src="home_img/oaktree4.PNG"></div>
+	  <div class="box" id="box1" ><img src="home_img/oaktree1.png"></div>
+	  <div class="box" id="box2"><img src="home_img/oaktree2.png"></div>
+	  <div class="box" id="box3"><img src="home_img/oaktree3.png"></div>
+	  <div class="box" id="box4"><img src="home_img/oaktree4.png"></div>
 	</div>
 	
 	<div class="work_icon"><a href="#"><img src="home_img/work.png"></a></div>
