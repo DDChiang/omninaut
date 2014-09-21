@@ -267,7 +267,7 @@ body {
   
   #sec-1 {
     min-height: 57em;
-	background: url('goldenglobe.jpg');
+	background: url('goldenglobe.jpg') fixed;
 	background-size:1200px;
   }
 
