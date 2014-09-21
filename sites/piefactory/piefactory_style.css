@@ -81,6 +81,7 @@ a {
   margin-top: .5em;
   float: left;
   margin-left: .2em;
+  z-index: 40;
 }
 
 .home-navbar  a {
@@ -89,6 +90,7 @@ a {
    background: black;
    padding-left: 1em;
    padding-right: 1em;
+   z-index: 40;
 }
 
 .home-navbar a:hover {
