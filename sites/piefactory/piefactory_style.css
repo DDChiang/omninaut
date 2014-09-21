@@ -20,7 +20,7 @@ body {
 
 .home_page {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
   overflow: hidden;
 }
 
@@ -365,6 +365,10 @@ a#mail:hover {
 }
 
 @media (max-width: 530px) {
+  .home_page {
+    height: 38em;
+  }
+  
   .centerpiece {
     right: 35%;
 	width: 200px;
@@ -382,8 +386,12 @@ a#mail:hover {
 }
 
 @media (max-width: 388px) {
+  .home_page {
+    height: 33em;
+  }
+ 
   .centerpiece {
-    top: 8em;
+    top: 7.5em;
   }
   
   #pie-1 {
@@ -406,6 +414,10 @@ a#mail:hover {
 }
 
 @media (max-width: 369px) {
+  .home_page {
+    height: 25em;
+  }
+
   .centerpiece {
     right: 32%;
   }
