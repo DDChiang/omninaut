@@ -74,7 +74,7 @@ a {
   position:relative;
   top: .5em;
   left: 27%;
-  z-index: 4;
+  z-index: 40;
 }
 
 .home-navbar li {
@@ -112,7 +112,8 @@ a {
   width: 40px;
   display: block;
   margin: auto;
-  
+  position:relative;
+  z-index:4;
 }
 
 .panel {
