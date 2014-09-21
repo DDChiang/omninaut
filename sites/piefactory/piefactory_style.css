@@ -103,7 +103,7 @@ a {
   padding-top: .3em;
   padding-bottom: .3em;
   position: relative;
-  z-index: 2;
+  z-index: 4;
   background:black;
  
 }
