@@ -260,8 +260,13 @@ body {
 }
 
 @media (max-width: 486px) {
+  #content-1 {
+    top: 8em;
+	height: ;
+  }
+  
   #sec-1 {
-    min-height: 1400px;
+    min-height: 57em;
   }
 
   #hero-title {
@@ -270,6 +275,10 @@ body {
   
   #caption {
     font-size: .9em;
+  }
+  
+  #content-2 {
+    top: 12em;
   }
   
   #content-2 .half-1 {
@@ -286,7 +295,11 @@ body {
   }
   
   #sec-2 {
-    min-height: 100vh;
+    min-height: 380px;
+  }
+  
+  .options {
+    margin-top: 2em;
   }
 }
 
@@ -298,26 +311,10 @@ body {
 }
 
 @media (max-width: 336px) {
-  #sec-1 {
-    min-height: 1100px;
-  }
-  
+ 
   #hero-title {
     font-size: 2em;
   }
-  
-  #content-2 {
-    top: 80vh;
-  }
-  
-  #content-3 {
-    position: relative;
-	top: -3em;
-  }
-  
-  #sec-2 {
-    min-height: 530px;
-  } 
   
   #up {
     left:38%;
