@@ -267,7 +267,7 @@ body {
   
   #sec-1 {
     min-height: 57em;
-	background: url('goldenglobe.jpg') fixed;
+	background: url('goldenglobe.jpg');
 	background-size:1200px;
   }
 
@@ -298,6 +298,8 @@ body {
   
   #sec-2 {
     min-height: 380px;
+	background: url('starrysky_ult.jpg');
+    background-size: 1200px;
   }
   
   .options {
