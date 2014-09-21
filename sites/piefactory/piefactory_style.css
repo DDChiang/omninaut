@@ -10,7 +10,6 @@ body {
 
 .home_page_wrapper {
   width: 100%;
-  height: 100vh;
   overflow: hidden;
   position:absolute;
   -webkit-transition: all .8s ease-in-out;
@@ -27,7 +26,7 @@ body {
 
 .centerpiece {
   position: absolute;
-  top: 30%;
+  top: 14em;
   right: 29%;
   z-index:2;
   text-shadow: 2px 2px #181818;
@@ -384,7 +383,7 @@ a#mail:hover {
 
 @media (max-width: 388px) {
   .centerpiece {
-    top: 22%;
+    top: 8em;
   }
   
   #pie-1 {
