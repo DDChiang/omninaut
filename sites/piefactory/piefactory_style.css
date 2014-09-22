@@ -81,7 +81,7 @@ a {
   margin-top: .5em;
   float: left;
   margin-left: .2em;
-  z-index: 40;
+  
 }
 
 .home-navbar  a {
@@ -90,7 +90,7 @@ a {
    background: black;
    padding-left: 1em;
    padding-right: 1em;
-   z-index: 40;
+   
 }
 
 .home-navbar a:hover {
@@ -102,10 +102,12 @@ a {
   width: 100%;
   cursor: pointer;
   display: none;
-  padding-top: .3em;
+  padding-top: .1em;
   padding-bottom: .3em;
   position: relative;
   z-index: 4;
+  float: left;
+  height: 26px;
   background:black;
  
 }
@@ -342,6 +344,7 @@ a#mail:hover {
     width: 100%;
     cursor: pointer;
     display: block;
+	
   }
   
   #menu #content, #hours #content, #about #content, #contact #content {
