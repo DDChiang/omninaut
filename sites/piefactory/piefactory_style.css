@@ -102,14 +102,13 @@ a {
   width: 100%;
   cursor: pointer;
   display: none;
-  padding-top: .1em;
+  padding-top: .2em;
   padding-bottom: .3em;
   position: relative;
   z-index: 4;
   float: left;
-  height: 26px;
+  height: 30px;
   background:black;
- 
 }
 
 #slideout_menu_icon img {
