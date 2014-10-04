@@ -16,6 +16,10 @@
         
 	    <div class="content_wrapper">
 	      <div class="blob_wrapper">
+	        <div class="blob" id="blob_1"><a href="#guiwallet"><img src="home_img/guiwallet_prev.png"></a></div>
+	        <div class="blob_title"><a href="#guiwallet">GUIWALLET</a></div>
+	      </div>
+		  <div class="blob_wrapper">
 	        <div class="blob" id="blob_1"><a href="#odysey"><img src="home_img/odysey_prev_1.png"></a></div>
 	        <div class="blob_title"><a href="#odysey">ODYSEY</a></div>
 	      </div>
@@ -34,6 +38,16 @@
 		</div>
 	  </div>
 	</div>  
+	
+	<div class="panel" id="guiwallet">
+	  <div class="hero_title">GuiWallet</div>
+	  <div class="previews_wrapper">
+	    <div class="box" id="box100"><img src="home_img/guiwallet_1.png"></div>
+	    <div class="box" id="box30"><img src="home_img/guiwallet_2.png"></div>
+	    <div class="box" id="box30"><img src="home_img/guiwallet_3.png"></div>
+	    <div class="box" id="box30"><img src="home_img/guiwallet_4.png"></div>
+	  </div>
+	</div>
 	
 	<div class="panel" id="odysey">
 	  <div class="hero_title">ODYSEY</div>

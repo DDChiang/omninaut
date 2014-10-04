@@ -123,25 +123,40 @@ body {
   width: 100%;
 }
 
-#box1 {
+div#box1 {
   width:38%;
   float: left;  
 }
 
-#box2 {
+div#box2 {
   width: 58%;
   float: right;
 }
 
-#box3 {
+div#box3 {
   width: 50%;
   float: left;
 }
 
-#box4 {
+div#box4 {
   width: 40%;
   float: right;
 }
+
+div#box30 {
+  width: 28%;
+  margin-left:2%;
+  float: left;
+}
+
+div#box100 {
+  width: 95%;
+  margin-left:2%;
+  float: left;
+}
+
+
+
 
 .work_icon {
   position: absolute;
