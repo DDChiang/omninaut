@@ -248,10 +248,27 @@ div#box100 {
   .blob_wrapper {
     height: 205px;
   }
+  
+  .panel {
+    min-height:583px;
+    min-height:100vh;
+  }
 }
 
 @media (max-width: 333px) {
   .blob_wrapper {
     height: 169px;
+  }
+  
+  .panel {
+    min-height:479px;
+    min-height:100vh;
+  }
+}
+
+@media (max-width: 299px) {
+  .panel {
+    min-height:436px;
+    min-height:100vh;
   }
 }
