@@ -262,13 +262,11 @@ div#box100 {
   
   .panel {
     min-height:479px;
-    min-height:100vh;
-  }
+   }
 }
 
 @media (max-width: 299px) {
   .panel {
     min-height:436px;
-    min-height:100vh;
-  }
+   }
 }
